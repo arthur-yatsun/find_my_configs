@@ -1,0 +1,21 @@
+[submodule ".dotfiles_personal"]
+	path = .dotfiles_personal
+	url = git@github.com:arthur-yatsun/.dotfiles_personal.git
+[submodule ".dotfiles"]
+	path = .dotfiles
+	url = git@github.com:arthur-yatsun/.dotfiles.git
+[submodule "tmux-sessionaizer"]
+	path = tmux-sessionaizer
+	url = git@github.com:arthur-yatsun/tmux-sessionaizer.git
+[submodule ".ansible"]
+	path = .ansible
+	url = git@github.com:arthur-yatsun/.ansible.git
+[submodule ".config_files"]
+	path = .config_files
+	url = git@github.com:arthur-yatsun/.config_files.git
+[submodule "shell-utilities"]
+	path = shell-utilities
+	url = git@github.com:arthur-yatsun/shell-utilities.git
+[submodule "containerized-dev-environment"]
+	path = containerized-dev-environment
+	url = git@github.com:arthur-yatsun/containerized-dev-environment.git
