@@ -19,3 +19,6 @@
 [submodule "containerized-dev-environment"]
 	path = containerized-dev-environment
 	url = git@github.com:arthur-yatsun/containerized-dev-environment.git
+[submodule ".dotfiles_work"]
+	path = .dotfiles_work
+	url = git@github.com:arthur-yatsun/.dotfiles_work.git
